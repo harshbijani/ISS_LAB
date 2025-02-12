@@ -1,5 +1,3 @@
-Here's a basic README template for your GitHub repository where you store your class ISS (Information Systems and Services) lab programs:
-
 ---
 
 # ISS Lab Programs
